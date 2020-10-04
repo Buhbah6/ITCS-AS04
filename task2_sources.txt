@@ -2,3 +2,5 @@ task2_sources
 
 https://canadianvisa.org/blog/jobs/canada-is-willing-to-pay-top-dollar-for-medical-professionals-thousands-of-positions-available
 Canadian Visa website showing salaries and different statistics for people interested in immigrating to Canada.
+It's a very helpful website for people looking for more information about the country and their potential future here.
+This particular sector talks about high paying jobs in the Canadian medical industry.
